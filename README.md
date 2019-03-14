@@ -2,7 +2,6 @@
 
 |![](https://user-images.githubusercontent.com/45400583/52907579-a9ba5900-32a7-11e9-9a60-3857edcaec40.png)|![](https://user-images.githubusercontent.com/45400583/52907614-411fac00-32a8-11e9-9be1-5fd5d133c028.png)|
 |--|--|
-|||
 
 - Let's Split用アクリルケース
 - 3mm厚アクリルでの作成を想定
